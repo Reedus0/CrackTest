@@ -1,6 +1,7 @@
 # CrackTest
 
-Скрипт для патча MyStudentTest(https://mytest.klyaksa.net/index.php?htm=htm/test_bank/index.htm)
+Скрипт для патча MyTestX(https://mytest.klyaksa.net/index.php?htm=htm/test_bank/index.htm)
+Проверялось на версиях с 10.1.\*.* по 10.2.\*.*
 
 1. Первый вариант всегда верный в вопросах с одним выбором
 2. Во всех остальных типах вопрос ответ всегда правильный
